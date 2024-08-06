@@ -1,5 +1,7 @@
 # *********************
 # CONTANDO MILISEGUNDOS
+# Utilizando una base de tiempo
+# Eato debe establecer un cambio en GitHub
 # *********************
 
 
